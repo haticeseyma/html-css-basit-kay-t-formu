@@ -1,0 +1,14 @@
+h2 {
+    color: rgb(180, 42, 134);
+    border: 2px;
+    border-color: rgb(180, 46, 180);
+    border-style: dotted;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+p {
+    color: rgb(183, 0, 255);
+    background-color: blanchedalmond;
+    font-family: Arial, Helvetica, sans-serif;
+    display: block;
+}
